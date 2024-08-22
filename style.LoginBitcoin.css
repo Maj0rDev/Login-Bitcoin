@@ -20,7 +20,7 @@ body{
     animation: rotate 6s infinite alternate linear;
 }
 
-
+/* Faz os circulos nas extremidades da página*/
 .circle{
     position: fixed;
     top: -50vmin;
