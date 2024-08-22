@@ -1,2 +1,2 @@
-# Login-Bitcoin
-Página de login moderna e responsiva com a logo do bitcoin.
+# Signup-Bitcoin
+Modern Signup Page UI Design with Bitcoin Logo.
